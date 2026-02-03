@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Vallabhi Goyal
 
-<!--
-**VallabhiGoyal/VallabhiGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focused on Data Structures & Algorithms  
+☕ Java Developer in progress  
+🌱 Currently learning: Java + DSA, Spring Boot basics  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Java
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript (Basics)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I'm working on
+- Solving DSA problems regularly
+- Strengthening Java fundamentals
+- Preparing for backend development with Spring Boot
+
+### 🚀 Goals
+- Strong problem-solving skills
+- Clean backend projects
+- Consistent GitHub contributions
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/vallabhi-goyal
